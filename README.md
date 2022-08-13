@@ -1,7 +1,7 @@
 # Named-Entity-Recognition-Healthcare
 
 ## General Information
-- Provide general information about your project here.
+
 ‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. Here, doctors can easily organise appointments, track past medical records and provide e-prescriptions.
 
  
